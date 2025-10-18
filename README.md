@@ -58,8 +58,12 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 full adder
+
+
 <img width="773" height="536" alt="image" src="https://github.com/user-attachments/assets/72d6ea8c-9a07-4cd8-bd5a-f43097d908b3" />
 full subracter
+
+
 <img width="774" height="537" alt="image" src="https://github.com/user-attachments/assets/7a1847a4-f763-411c-b5d2-20163f26d3d5" />
 
 
